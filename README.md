@@ -17,10 +17,6 @@ The following **required** functionality is completed:
 - [x] Users can upload new photos with optional captions to appear in the feed.  
 - [x] Users stay logged in across app launches.  
 
-The following **optional** features are implemented:
-
-- [x] Users can select photos from their library.  
-
 ## Video Walkthrough
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README.  
